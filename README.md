@@ -47,6 +47,10 @@ Internet
 - **Outputs**: `outputs.tf` — ALB DNS name, VPC/subnet/instance IDs,
   bucket name.
 
+### Diagram
+
+<img src="./screenshot/aws_vpc_infra_diagram.png" alt="Infra Diagram" width="550">
+
 ## Prerequisites
 
 - Terraform >= 1.5
